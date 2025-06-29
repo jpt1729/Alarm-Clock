@@ -17,8 +17,8 @@ Haven't updated in a while but i finished my schematic so far and my pcb. The de
 
 I am in a bit of a rush to get the invite to highway, but yeah.
 
-!()[https://github.com/jpt1729/Alarm-Clock/blob/main/photos/schematic-6-29-2025.png?raw=true]
-!()[https://github.com/jpt1729/Alarm-Clock/blob/main/photos/PCB-6-29-2025.png?raw=true]
+![](https://github.com/jpt1729/Alarm-Clock/blob/main/photos/schematic-6-29-2025.png?raw=true)
+![](https://github.com/jpt1729/Alarm-Clock/blob/main/photos/PCB-6-29-2025.png?raw=true)
 
 The PCB has some errors and for some reason says I need to connect the ground even though there is a powerflag, but those are issues I feel fine ignoring lol.
 
