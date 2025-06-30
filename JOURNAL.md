@@ -40,5 +40,6 @@ Here is the before. As you can see the dial on the side is just too tall this is
 Here it is now! I like the cases structure and how it looks ngl.
 ![image](https://github.com/user-attachments/assets/ff4bed27-d774-4eb3-8080-7569e63502f8)
 
+Some stuff I added are beepers to help me actually wake up they are placed on the snooze button (Not sure if you can see them but they are there)
 After this, I have only the hard part which is just making the code!
 
