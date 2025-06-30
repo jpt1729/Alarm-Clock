@@ -30,4 +30,15 @@ I've been starting to work on the case and I realised that 2 ec11 encoders doesn
 
 I have to do some redesign to support the buzzer which will wake me up. Its going to be on the snooze bar and there will be 2 big of them.
 
-I also made a mistake and accidentally deleted the correct copy of the pcb 🤦‍♂️🤦‍♂️🤦‍♂️ so now I gotta redo some sizing changes and stuff
+I also made a mistake and accidentally deleted the correct copy of the pcb 🤦‍♂️🤦‍♂️🤦‍♂️ so now I gotta redo some sizing changes and stuff.
+
+![image](https://github.com/user-attachments/assets/c1908e37-8d26-4349-a8ea-e5550934ca8f)
+![image](https://github.com/user-attachments/assets/e3f39c6e-8c78-4c0e-915d-c89c86d6700a)
+
+Here is the before. As you can see the dial on the side is just too tall this is because I had 2 screws to secure it. Now it is only one with a hook at the top to make sure it doesn't moove and shake around.
+
+Here it is now! I like the cases structure and how it looks ngl.
+![image](https://github.com/user-attachments/assets/ff4bed27-d774-4eb3-8080-7569e63502f8)
+
+After this, I have only the hard part which is just making the code!
+
