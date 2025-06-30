@@ -23,3 +23,11 @@ I am in a bit of a rush to get the invite to highway, but yeah.
 The PCB has some errors and for some reason says I need to connect the ground even though there is a powerflag, but those are issues I feel fine ignoring lol.
 
 I am starting to work on the case in fusion360.
+
+# June 30th
+
+I've been starting to work on the case and I realised that 2 ec11 encoders doesn't really make any sense and that the current structure makes the clock look werid lol.
+
+I have to do some redesign to support the buzzer which will wake me up. Its going to be on the snooze bar and there will be 2 big of them.
+
+I also made a mistake and accidentally deleted the correct copy of the pcb 🤦‍♂️🤦‍♂️🤦‍♂️ so now I gotta redo some sizing changes and stuff
