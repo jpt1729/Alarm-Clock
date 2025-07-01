@@ -5,7 +5,7 @@ description: "Alarm clock with an LCD display and a speaker."
 created_at: "2025-06-04"
 ---
 
-Wanted to note, I had no idea we had to write down the hours we worked on it so I just estimated the hours it took after the fact.
+Wanted to note, I had no idea we had to write down the hours we worked on it so I just estimated the hours it took after the fact. I would say the total time I spend on this project is in the ~15 hr range.
 
 # June 26th
 Its important to me that this thing is kinda cools so I am thinking of some features I want it to have
