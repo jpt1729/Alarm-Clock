@@ -9341,7 +9341,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Gateron-low-profile:Gateron_Low_Profile_Socket_1U"
+		(property "Footprint" "marbastlib-xp-gateron_lp:SW_KS33_1u"
 			(at 123.19 50.8 0)
 			(effects
 				(font
