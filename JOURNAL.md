@@ -67,6 +67,12 @@ Some goals for today
 
 Ok now I finished all those and built everything besides the google calendar integration, but I think this is ready to submit?
 
-Just finished my readme and added the BOM
+Just finished my readme and added the BOM. 
+
+![image](https://github.com/user-attachments/assets/4e5bb61c-47e1-4444-8f99-453aa80d3cd4)
+![image](https://github.com/user-attachments/assets/80e9fbce-8971-47c7-9332-39027cc3fba1)
+![image](https://github.com/user-attachments/assets/a8e63787-a606-4243-9073-25941b7e3b01)
+
+Fusion 360 updated while I was working on this project and now it looks so much nicer!
 
 **Total time spent: 4hrs**
