@@ -12,6 +12,8 @@ Its important to me that this thing is kinda cools so I am thinking of some feat
 
 Still thinking of some features but planning on writing those as I go
 
+**Total time spent: 30min**
+
 # June 29th
 Haven't updated in a while but i finished my schematic so far and my pcb. The design is currently 4 different pcb modules which will all be connected by cables so I can create a "3d case." One module for the main board with the ESP32-s3-mini, another one for the snooze button, and 2 rotary encoders.
 
@@ -23,6 +25,8 @@ I am in a bit of a rush to get the invite to highway, but yeah.
 The PCB has some errors and for some reason says I need to connect the ground even though there is a powerflag, but those are issues I feel fine ignoring lol.
 
 I am starting to work on the case in fusion360.
+
+**Total time spent: 3.5hrs**
 
 # June 30th
 
@@ -43,3 +47,16 @@ Here it is now! I like the cases structure and how it looks ngl.
 Some stuff I added are beepers to help me actually wake up they are placed on the snooze button (Not sure if you can see them but they are there)
 After this, I have only the hard part which is just making the code!
 
+**Total time spent: 4hrs**
+
+# July 1st
+
+I've just started finishing up my 3d modeling and stuff and now I am going to work on the firmware.
+
+I am going to use circuit python just because I have the most experience with that
+
+Some goals for today
+- build out a beeper function
+- properly display time
+- schedule alarms properly
+- maybe google calendar integration?? (this is kinda gunna be hard)
