@@ -1,21 +1,21 @@
 Item,Quantity Used,Quantity Purchased,Designator,Part Number / Description,Link,Cost
 Case,1,,,Custom Case,,
 PCB,1,5,,Custom PCB,,$8.90
-JST Connector,4,5,,JST-XH-A 5,LCSC,$0.42
-JST Connector,2,5,,JST-XH-A 8,LCSC,$0.66
-MCU,1,1,,ESP-32-S3-MINI-1,LCSC,$5.11
-Buzzer,2,5,,TMB12A05,LCSC,$0.90
-Capacitor,1,100,C1,0603 1uF (100nF),LCSC,$0.24
-USB Connector,1,1,J1,USB-C USB4105-GF-A,LCSC,$1.16
-LCD Display,1,10,,"1.9"" LCD",AliExpress,$3.25
-Diodes,2,10,,40V 200mA NPN TO-92,LCSC,$0.38
-Resistor,1,100,R1,10k Ohm 0603,LCSC,$0.11
-Resistor,2,100,"R2, R3",5.1k Ohm 0603,LCSC,$0.12
-Resistor,2,100,"R4, R5",1k Ohm 0603,LCSC,$0.11
-Switch,1,10,SW1,Gateron Low Profile,AliExpress,$5.79
-Encoder,1,5,ENC1,EC11 Rotary Encoder,AliExpress,$0.99
-Voltage Regulator,1,5,U1,AMS1117-3.3,LCSC,$0.87
-Shipping JLC PCB,,,,,,$22.73
-Shipping LCSC,,,,,,$17.39
-Shipping Aliexpress,,,,,,$0.00
-,,,,,,$69.13
+JST Connector,4,5,,JST-XH-A 5,https://lcsc.com/product-detail/Wire-To-Board-Connector_JST-B5B-XH-A-LF-SN_C157991.html,$0.42
+JST Connector,2,5,,JST-XH-A 8,https://www.google.com/search?q=https://lcsc.com/product-detail/Wire-To-Board-Connector_JST-B8B-XH-A-LF-SN_C157972.html,$0.66
+MCU,1,1,,ESP-32-S3-MINI-1,https://lcsc.com/product-detail/WiFi-Modules_Espressif-Systems-ESP32-S3-MINI-1-N8_C2913206.html,$5.11
+Buzzer,2,5,,TMB12A05,https://lcsc.com/product-detail/Buzzers_Jiangsu-Huaneng-Elec-TMB12A05_C96093.html,$0.90
+Capacitor,1,100,C1,0603 1uF (100nF),https://lcsc.com/product-detail/image/CC0603KRX7R9BB104_C14663.html,$0.24
+USB Connector,1,1,J1,USB-C USB4105-GF-A,https://www.google.com/search?q=https://lcsc.com/product-detail/USB-Connectors_Global-Connector-Technology-USB4105-GF-A_C3020560.html,$1.16
+LCD Display,1,10,,1.9" LCD,https://www.aliexpress.us/item/3256807182983606.html,$3.25
+Diodes,2,10,,40V 200mA NPN TO-92,https://lcsc.com/product-detail/image/2N3904X_C5156722.html,$0.38
+Resistor,1,100,R1,10k Ohm 0603,https://lcsc.com/product-detail/image/RC0603FR-0710KL_C98220.html,$0.11
+Resistor,2,100,R2, R3,5.1k Ohm 0603,https://lcsc.com/product-detail/image/RC0603FR-075K1L_C105580.html,$0.12
+Resistor,2,100,R4, R5,1k Ohm 0603,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603FR-071KL_C22548.html,$0.11
+Switch,1,10,SW1,Gateron Low Profile,https://www.aliexpress.us/item/3256808635477539.html,$5.79
+Encoder,1,5,ENC1,EC11 Rotary Encoder,https://www.aliexpress.us/item/3256801237549169.html,$0.99
+Voltage Regulator,1,5,U1,AMS1117-3.3,https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.html,$0.87
+Shipping JLC PCB,,,,,,,$22.73
+Shipping LCSC,,,,,,,$17.39
+Shipping AliExpress,,,,,,,$0.00
+Total,,,,,,,$69.13
