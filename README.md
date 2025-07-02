@@ -6,6 +6,8 @@ What this basically is its an ESP32 controlled alarm clock that connects to Wifi
 
 When I first learned about making PCBs this (along with a keyboard [which I already made!]) was one of the projects I wanted to try my hand at so I am happy I got to do it!
 
+The plan to make the case a bit easier to print is to print the top part out and then the bottom part out and connect the two with a soldering iron. This will use a lot less plastic (if not I will basically be printing a solid block of plastic).
+
 # Photos
 
 ![image](https://github.com/user-attachments/assets/4e5bb61c-47e1-4444-8f99-453aa80d3cd4)
