@@ -8,6 +8,10 @@ When I first learned about making PCBs this (along with a keyboard [which I alre
 
 # Photos
 
+![image](https://github.com/user-attachments/assets/4e5bb61c-47e1-4444-8f99-453aa80d3cd4)
+![image](https://github.com/user-attachments/assets/80e9fbce-8971-47c7-9332-39027cc3fba1)
+![image](https://github.com/user-attachments/assets/a8e63787-a606-4243-9073-25941b7e3b01)
+
 # BOM
 
 | Item                 | Quantity | Designator | Part Number / Description | Link                                                                                                                              |
