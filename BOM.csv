@@ -7,7 +7,7 @@ MCU,1,1,,ESP-32-S3-MINI-1,https://lcsc.com/product-detail/WiFi-Modules_Espressif
 Buzzer,2,5,,TMB12A05,https://lcsc.com/product-detail/Buzzers_Jiangsu-Huaneng-Elec-TMB12A05_C96093.html,$0.90
 Capacitor,1,100,C1,0603 1uF (100nF),https://lcsc.com/product-detail/image/CC0603KRX7R9BB104_C14663.html,$0.24
 USB Connector,1,1,J1,USB-C USB4105-GF-A,https://www.google.com/search?q=https://lcsc.com/product-detail/USB-Connectors_Global-Connector-Technology-USB4105-GF-A_C3020560.html,$1.16
-LCD Display,1,10,,1.9" LCD,https://www.aliexpress.us/item/3256807182983606.html,$3.25
+LCD Display,1,10,,"1.9"" LCD,https://www.aliexpress.us/item/3256807182983606.html,$3.25
 Diodes,2,10,,40V 200mA NPN TO-92,https://lcsc.com/product-detail/image/2N3904X_C5156722.html,$0.38
 Resistor,1,100,R1,10k Ohm 0603,https://lcsc.com/product-detail/image/RC0603FR-0710KL_C98220.html,$0.11
 Resistor,2,100,R2, R3,5.1k Ohm 0603,https://lcsc.com/product-detail/image/RC0603FR-075K1L_C105580.html,$0.12
