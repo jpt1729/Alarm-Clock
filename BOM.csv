@@ -15,7 +15,7 @@ Resistor,2,100,"R4, R5",1k Ohm 0603,https://lcsc.com/product-detail/Chip-Resisto
 Switch,1,10,SW1,Gateron Low Profile,https://www.aliexpress.us/item/3256808635477539.html,$5.79
 Encoder,1,5,ENC1,EC11 Rotary Encoder,https://www.aliexpress.us/item/3256801237549169.html,$0.99
 Voltage Regulator,1,5,U1,AMS1117-3.3,https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.html,$0.87
-Shipping JLC PCB,,,,,,,$22.73
-Shipping LCSC,,,,,,,$17.39
-Shipping AliExpress,,,,,,,$0.00
-Total,,,,,,,$69.13
+Shipping JLC PCB,,,,,,$22.73
+Shipping LCSC,,,,,,$17.39
+Shipping AliExpress,,,,,,$0.00
+Total,,,,,,$69.13
