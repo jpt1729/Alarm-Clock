@@ -42,5 +42,6 @@ The plan to make the case a bit easier to print is to print the top part out and
 | Shipping JLC PCB | | | | | | $22.73 |
 | Shipping LCSC | | | | | | $17.39 |
 | Shipping AliExpress | | | | | | $0.00 |
+| Hotplate | 1 | 1 | | Soldering Hotplate | [AliExpress](https://www.aliexpress.us/item/3256806325004979.html) | $20.05 |
 | **Total** | | | | | | **$77.72** |
 
