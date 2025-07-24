@@ -15,7 +15,11 @@ Resistor,2,100,"R4, R5",1k Ohm 0603,https://lcsc.com/product-detail/Chip-Resisto
 Switch,1,10,SW1,Gateron Low Profile,https://www.aliexpress.us/item/3256808635477539.html,$5.79
 Encoder,1,5,ENC1,EC11 Rotary Encoder,https://www.aliexpress.us/item/3256801237549169.html,$0.99
 Voltage Regulator,1,5,U1,AMS1117-3.3,https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_Advanced-Monolithic-Systems-AMS1117-3-3_C6186.html,$0.87
+SXH-001T-P0.6,,100,,Terminal pin (x100),https://lcsc.com/product-detail/Housing-Contact_JST-SXH-001T-P0-6_C140573.html,$1.08
+XHP-5,,20,,5-pin housing (x20),https://lcsc.com/product-detail/Housings-Wire-To-Board-Wire-To-Wire_JST-XHP-5_C144404.html,$0.46
+XHP-8,,20,,8-pin housing (x20),https://lcsc.com/product-detail/Housings-Wire-To-Board-Wire-To-Wire_JST-XHP-8_C144407.html,$0.65
+Connector Kit (Amazon),,,,,SXH-001T-P0.6, XHP-5, XHP-8 Assortment,https://a.co/d/gTI01NR,$6.97
 Shipping JLC PCB,,,,,,$22.73
 Shipping LCSC,,,,,,$17.39
 Shipping AliExpress,,,,,,$0.00
-Total,,,,,,$69.13
+Total,,,,,,$77.72
